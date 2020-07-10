@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello buddy 👋
 
-<!--
-**imxfly/imxfly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好，我是阿亮，是一名伪计算机工程师，喜欢解谜，喜欢探寻事物的本质。
 
-Here are some ideas to get you started:
+我喜欢宅在家里捣鼓各种技术和工具，也乐意出去玩，但是喜欢 被带着出去玩，毕竟被朋友带着出去玩，那个叫省心～
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我不敢称自己是个二次元宅，因为细数自己追过的那些日漫国漫...（也没有多少）。个人比较喜欢看一些青春热血的漫画或动漫。 《海贼王》是我最爱的动漫，没有之一！
+
+目前主要专注于 Web 端开发，关注 Web 性能优化和分布式开发以及云计算。
+
+下面是我的一些联系方式：
+
+• QQ: 240086834
+
+• 微信：imxfly
+
+• Email: stephenfxl@gmail.com
+
+• Twitter: https://twitter.com/imxfly
+
+• GitHub: https://github.com/imxfly
+
+• 微博： https://weibo.com/3803997174
+
+• 微信公众号： 懒人自传
